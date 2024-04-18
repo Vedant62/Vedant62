@@ -7,8 +7,6 @@
 
 - 💬 I am exploring linux systems (I like it) and curious to learn more about **some arduino stuff and cybersecurity.**
 
-- 📫 Feel free to reach out to me on **vedant.sharma0510@gmail.com**
-
 - ⚡ Fun fact **I mix up pair of socks for a change.**
 
 <h3 align="left">Connect with me:</h3>
