@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, Firebase, React and TypeScript**
 
-- 💬 I am exploring linux systems (I like it) and curious to learn more about **some arduino stuff and cybersecurity.**
+- 💬 I am exploring linux systems (I like it so far) and curious to learn more about **some arduino stuff and cybersecurity.**
 
 - ⚡ Fun fact **I mix up pair of socks for a change.**
 
