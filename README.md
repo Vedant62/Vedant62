@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant Sharma, an 18 y/o developer.</h1>
-<h3 align="center">an App Developer and a MERN stack web developer from India.</h3>
+<h3 align="center">with a passion for web and app development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant62&label=Profile%20views&color=0e75b6&style=flat" alt="vedant62" /> </p>
 
