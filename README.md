@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant62&label=Profile%20views&color=0e75b6&style=flat" alt="vedant62" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Firebase, React and TypeScript**
+- 🌱 I’m currently learning **Flutter, React, NextJS, LangChain**
 
-- 💬 I am exploring linux systems (I like it so far) and curious to learn more about **cybersecurity and some arduino stuff.**
+- 💬 I am exploring linux systems and curious to learn more about **ML and some arduino stuff.**
 
 - ⚡ Fun fact **I mix up pair of socks for a change.**
 
