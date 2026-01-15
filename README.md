@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Vedant Sharma, a 19 y/o developer.</h1>
-<h3 align="center">with a passion for web and app development</h3>
+<h1 align="center">Hi 👋, I'm Vedant Sharma, a 20 y/o developer.</h1>
+<h3 align="center">with a passion for ml and systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant62&label=Profile%20views&color=0e75b6&style=flat" alt="vedant62" /> </p>
 
-- 🌱 I’m currently learning **Flutter, React, NextJS, LangChain**
-
-- 💬 I am exploring linux systems and curious to learn more about **ML and some arduino stuff.**
+- 🌱 I’m currently learning **Backend, Cloud, Systems and AI**
 
 - ⚡ Fun fact **I mix up pair of socks for a change.**
 
